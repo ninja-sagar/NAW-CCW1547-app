@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>submitter</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 10:14:32</sys_created_on>
+        <sys_data_policy display_value="Sets the Submitter field to mandatory">5f0c8119d5ac00107f44bcb76d7dba06</sys_data_policy>
+        <sys_id>9f0c8119d5ac00107f44bcb76d7dba08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>submitter</sys_name>
+        <sys_package display_value="Peer Review" source="x_snc_peer_review">c1bacd95d5ac00107f44bcb76d7dba80</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">c1bacd95d5ac00107f44bcb76d7dba80</sys_scope>
+        <sys_update_name>sys_data_policy_rule_9f0c8119d5ac00107f44bcb76d7dba08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 10:14:32</sys_updated_on>
+        <table>x_snc_peer_review_feedback</table>
+    </sys_data_policy_rule>
+</record_update>
