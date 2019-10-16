@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <sp_column display_value="1">afa62b45870e0300e3010cf888cb0bef</sp_column>
+        <sp_container display_value="Peer Index - Container 1">d740395dd5ec00107f44bcb76d7dba97</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 12:55:11</sys_created_on>
+        <sys_id>2770f59dd5ec00107f44bcb76d7dba90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Peer Review" source="x_snc_peer_review">c1bacd95d5ac00107f44bcb76d7dba80</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">c1bacd95d5ac00107f44bcb76d7dba80</sys_scope>
+        <sys_update_name>sp_row_2770f59dd5ec00107f44bcb76d7dba90</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 12:55:11</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Peer Review">c1bacd95d5ac00107f44bcb76d7dba80</application>
+        <file_path/>
+        <instance_id>5d71a3f01b2840d0c23fed7b2f4bcb70</instance_id>
+        <instance_name>naw-lnd-ccw1547-061</instance_name>
+        <name>sp_row_2770f59dd5ec00107f44bcb76d7dba90</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column display_value="1">afa62b45870e0300e3010cf888cb0bef</sp_column><sp_container display_value="Peer Index - Container 1">d740395dd5ec00107f44bcb76d7dba97</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-16 12:55:11</sys_created_on><sys_id>2770f59dd5ec00107f44bcb76d7dba90</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Peer Review" source="x_snc_peer_review">c1bacd95d5ac00107f44bcb76d7dba80</sys_package><sys_policy/><sys_scope display_value="Peer Review">c1bacd95d5ac00107f44bcb76d7dba80</sys_scope><sys_update_name>sp_row_2770f59dd5ec00107f44bcb76d7dba90</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-16 12:55:11</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>622960749</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>cdbacd95d5ac00107f44bcb76d7dba81</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 12:55:11</sys_created_on>
+        <sys_id>2cd0b59dd5ec00107f44bcb76d7dbafd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dd4a2f0c80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 12:55:11</sys_updated_on>
+        <type>Row</type>
+        <update_guid>64d0b59d90ec0010e18037c6906400fd</update_guid>
+        <update_guid_history>64d0b59d90ec0010e18037c6906400fd:622960749</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">bf217d9dd5ec00107f44bcb76d7dbacd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 12:56:46</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>0735e3eadf5b48d9a0c90b25c8a2f659</sys_id>
+        <sys_metadata>2770f59dd5ec00107f44bcb76d7dba90</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Peer Review" source="x_snc_peer_review">c1bacd95d5ac00107f44bcb76d7dba80</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">c1bacd95d5ac00107f44bcb76d7dba80</sys_scope>
+        <sys_scope_delete display_value="">18501a1167c64287af0dd850e8d0e731</sys_scope_delete>
+        <sys_update_name>sp_row_2770f59dd5ec00107f44bcb76d7dba90</sys_update_name>
+        <sys_update_version display_value="sp_row_2770f59dd5ec00107f44bcb76d7dba90">2cd0b59dd5ec00107f44bcb76d7dbafd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 12:56:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
