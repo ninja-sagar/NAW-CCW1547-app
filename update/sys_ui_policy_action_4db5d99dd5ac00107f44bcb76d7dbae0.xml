@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>average</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 10:57:24</sys_created_on>
+        <sys_id>4db5d99dd5ac00107f44bcb76d7dbae0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>average</sys_name>
+        <sys_package display_value="Peer Review" source="x_snc_peer_review">c1bacd95d5ac00107f44bcb76d7dba80</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">c1bacd95d5ac00107f44bcb76d7dba80</sys_scope>
+        <sys_update_name>sys_ui_policy_action_4db5d99dd5ac00107f44bcb76d7dbae0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 10:57:24</sys_updated_on>
+        <table>x_snc_peer_review_user_score</table>
+        <ui_policy display_value="Make form read-only">b545159dd5ac00107f44bcb76d7dba5b</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
